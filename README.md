@@ -19,10 +19,6 @@ __Tech Stack__
 - [Alpha Vantage]( https://www.alphavantage.co/?utm_source=cfe&utm_medium=github&utm_campaign=cfe-github) ([docs](https://www.alphavantage.co/documentation/?utm_source=cfe&utm_medium=github&utm_campaign=cfe-github))
 - [OpenAI]( https://www.openai.com/?utm_source=cfe&utm_medium=github&utm_campaign=cfe-github)
 
-## Tutorial
-- In-depth setup [on YouTube (https://youtu.be/aApDye1TWJ4)](https://youtu.be/aApDye1TWJ4)
-- [Django Setup for use in Jupyter Notebooks (short + code)](https://www.codingforentrepreneurs.com/shorts/django-setup-for-use-in-jupyter-notebooks)
-- Full tutorial [on YouTube (https://youtu.be/O3O1z5hTdUM)](https://youtu.be/O3O1z5hTdUM)
 
 ## Getting Started
 
