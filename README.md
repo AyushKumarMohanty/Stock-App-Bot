@@ -1,4 +1,4 @@
-# Stock Trading Bot
+# Stock-App-Bot
 [![Star this repo](https://img.shields.io/github/stars/codingforentrepreneurs/Stock-Trading-Bot?style=social)](https://github.com/codingforentrepreneurs/Stock-Trading-Bot)
 
 Learn how to extract data, analyze, and decide on stocks in the market using Django, Celery, TimescaleDB, Jupyter, OpenAI, and more.
